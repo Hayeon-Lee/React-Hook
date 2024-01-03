@@ -52,3 +52,14 @@
 <br />
 
 2. useEffect() 기본 지식
+
+   - useEffect() 의 인자
+
+     - 첫 번째 인자: 렌더링 후 컴포넌트에게 할 일을 지시
+
+     - 두 번째 인자: 어떤 컴포넌트를 감시할 지 정함 (빈 값을 전달하면 처음 페이지 렌더링 될 때만 동작)
+
+   - useEffect() 가 동작하는 법
+     - ComponentDidMount
+     - ComponentWillUnMount
+     - ComponentDidUpdate
