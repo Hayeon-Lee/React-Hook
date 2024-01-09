@@ -24,6 +24,8 @@
 
 2. useEffect() 를 응용하여 만든 React Hook
 
+   i. <a href='useTitle'> useTitle() </a> 
+
 <br />
 
 ### Custom Hooks 보기 전 읽으면 좋을 기본 지식
